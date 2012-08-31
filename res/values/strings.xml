@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ArtistActivity!</string>
+    <string name="app_name">Artist</string>
+    
+    <string name="selectpicture_tip">Please wait while finding media...</string>
+	<string name="selectpicture_done">选择</string>
+	<string name="selectpicture_cancel">取消</string>
+	<string name="selectpicture_nosdcard">There is no SDCard</string>
+	<string name="selectpicture_nopictures">There is no pictures in SDCard</string>
+
+</resources>

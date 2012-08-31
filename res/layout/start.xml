@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FF000000"
+    >
+    
+    <com.example.artist.StartView
+        android:id="@+id/StartView"
+        android:layout_width="fill_parent"
+        android:layout_height="420px"
+    />
+    
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <Button
+        android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+        android:background="@drawable/shape"
+        android:layout_marginTop="3px"
+        android:id="@+id/Paint"
+        android:text="开始画画"
+        />
+</LinearLayout>
+	
+</RelativeLayout>
